@@ -1,0 +1,1180 @@
+2025-12-20 02:25:19,480 - discord.client - INFO - logging in using static token
+2025-12-20 02:26:02,321 - discord.client - INFO - logging in using static token
+2025-12-20 02:26:03,389 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d3fff050647b461b8837dda11778fd8e).
+2025-12-20 02:26:05,423 - __main__ - INFO - Logged in as BLAZE-BOT#9461 (id: 1343864935930658876)
+2025-12-20 02:26:05,765 - __main__ - INFO - Cached 28 invites for ↬BLAZE-COMMUNITY↫
+2025-12-20 02:26:06,147 - __main__ - INFO - Synced 16 global commands
+2025-12-20 02:26:06,149 - __main__ - INFO - bot started - Logged in as BLAZE-BOT#9461 in 1 guilds
+2025-12-20 02:27:36,979 - discord.client - INFO - logging in using static token
+2025-12-20 02:27:38,137 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: be85f1e8ed3fdfbdf547862ea5bfd2b1).
+2025-12-20 02:27:40,160 - __main__ - INFO - Logged in as BLAZE-BOT#9461 (id: 1343864935930658876)
+2025-12-20 02:27:40,536 - __main__ - INFO - Cached 28 invites for ↬BLAZE-COMMUNITY↫
+2025-12-20 02:27:42,737 - __main__ - INFO - Synced 16 global commands
+2025-12-20 02:27:42,738 - __main__ - INFO - bot started - Logged in as BLAZE-BOT#9461 in 1 guilds
+2025-12-20 02:27:51,779 - __main__ - INFO - greeting command used - zinx_blaze used the greeting command in ↬BLAZE-COMMUNITY↫ (emoji: 👋)
+2025-12-20 02:27:55,023 - __main__ - INFO - greeting command used - zinx_blaze used the greeting command in ↬BLAZE-COMMUNITY↫ (emoji: 🤗)
+2025-12-20 02:27:58,173 - __main__ - INFO - greeting command used - zinx_blaze used the greeting command in ↬BLAZE-COMMUNITY↫ (emoji: 😊)
+2025-12-20 02:28:02,633 - __main__ - INFO - greeting command used - zinx_blaze used the greeting command in ↬BLAZE-COMMUNITY↫ (emoji: 🌟)
+2025-12-20 02:28:10,298 - __main__ - INFO - messages cleared - zinx_blaze cleared 9 messages
+2025-12-20 02:29:10,830 - __main__ - INFO - verification setup - zinx_blaze set up verification system:
+Channel: 👉┃start-here
+Unverified Role: VERIFY TO GET ACCESS ❗
+Verified Role: VERIFIED
+Log Channel: ✅⤬verified-logs
+2025-12-20 02:29:49,771 - __main__ - INFO - member verified - zinx_blaze (1138441755021295646) verified in ↬BLAZE-COMMUNITY↫
+2026-01-23 20:49:50,168 - discord.client - INFO - logging in using static token
+2026-01-23 20:49:52,339 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ae74003f6cdd36ec7a449115260ab219).
+2026-01-23 20:49:54,373 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 20:49:56,997 - __main__ - INFO - Cached 1 invites for ⌁ Inferno Community ⌁
+2026-01-23 20:49:57,570 - __main__ - INFO - Synced 20 global commands
+2026-01-23 20:49:57,760 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-23 20:56:17,576 - discord.client - INFO - logging in using static token
+2026-01-23 20:56:18,821 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fceaf8669a187bf6431d0e2f40faf9f1).
+2026-01-23 20:56:20,841 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 20:56:21,341 - __main__ - INFO - Cached 1 invites for ⌁ Inferno Community ⌁
+2026-01-23 20:56:21,655 - __main__ - INFO - Synced 20 global commands
+2026-01-23 20:56:21,655 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-23 20:58:57,175 - __main__ - INFO - ticket system setup - zinx_blaze set up ticket system
+Category: ─────TICKET─────
+Crew Info: 📖┋crew-info
+Donation Info: 🫶・giveaway-donations
+Log Channel: 📝→application-form
+Roles: 0 roles
+2026-01-23 20:59:22,377 - __main__ - INFO - ticket panel created - zinx_blaze created ticket panel in 💬┃support
+2026-01-23 21:26:01,870 - discord.gateway - WARNING - Can't keep up, shard ID None websocket is 49.8s behind.
+2026-01-23 21:47:46,922 - __main__ - INFO - New invite created in ⌁ Inferno Community ⌁: Gfz8WZQM
+2026-01-23 21:47:47,026 - __main__ - INFO - invite created - New invite created in ⌁ Inferno Community ⌁: Gfz8WZQM by n1ghtreap3r
+2026-01-23 21:53:01,973 - discord.client - INFO - logging in using static token
+2026-01-23 21:53:03,023 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0c6505446feefde3c62155c82eacc1ed).
+2026-01-23 21:53:05,068 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 21:53:05,321 - __main__ - INFO - Cached 2 invites for ⌁ Inferno Community ⌁
+2026-01-23 21:53:05,667 - __main__ - INFO - Synced 20 global commands
+2026-01-23 21:53:05,669 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-23 21:55:26,770 - discord.client - INFO - logging in using static token
+2026-01-23 21:55:29,093 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f8876a970a0f6c750e31ab0e5d011e46).
+2026-01-23 21:55:31,113 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 21:55:31,454 - __main__ - INFO - Cached 2 invites for ⌁ Inferno Community ⌁
+2026-01-23 21:55:31,750 - __main__ - INFO - Synced 20 global commands
+2026-01-23 21:55:31,751 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-23 21:57:29,632 - discord.client - INFO - logging in using static token
+2026-01-23 21:57:30,622 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: def689356491ef5a3cb6485f1fec20e2).
+2026-01-23 21:57:32,646 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 21:57:32,915 - __main__ - INFO - Cached 2 invites for ⌁ Inferno Community ⌁
+2026-01-23 21:57:33,349 - __main__ - INFO - Synced 20 global commands
+2026-01-23 21:57:33,368 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-23 21:58:30,135 - __main__ - INFO - ticket system setup - zinx_blaze set up ticket system
+Category: ─────TICKET─────
+Crew Info: 📖┋crew-info
+Donation Info: 🫶・giveaway-donations
+Log Channel: 📝→application-form
+Roles: 0 roles
+2026-01-23 21:58:48,654 - __main__ - INFO - ticket panel created - zinx_blaze created ticket panel in 💬┃support
+2026-01-23 22:20:20,388 - discord.client - INFO - logging in using static token
+2026-01-23 22:20:21,399 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b3806e5d72d9cffa83981194a15b0258).
+2026-01-23 22:20:23,438 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 22:20:23,793 - __main__ - INFO - Cached 2 invites for ⌁ Inferno Community ⌁
+2026-01-23 22:20:24,148 - __main__ - INFO - Synced 20 global commands
+2026-01-23 22:20:24,149 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-23 22:22:31,226 - discord.client - INFO - logging in using static token
+2026-01-23 22:22:32,248 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a52b803359d6efb2b1f914f0355d5ebc).
+2026-01-23 22:22:34,274 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 22:22:34,634 - __main__ - INFO - Cached 2 invites for ⌁ Inferno Community ⌁
+2026-01-23 22:22:36,360 - __main__ - INFO - Synced 20 global commands
+2026-01-23 22:22:36,360 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-23 22:23:19,511 - __main__ - INFO - ticket system setup - zinx_blaze set up ticket system
+Category: ─────TICKET─────
+Crew Info: 📖┋crew-info
+Donation Info: 🫶・giveaway-donations
+Log Channel: 📝→application-form
+Roles: 0 roles
+2026-01-23 22:23:39,527 - __main__ - INFO - ticket panel created - zinx_blaze created ticket panel in 💬┃support
+2026-01-23 22:44:36,822 - discord.client - INFO - logging in using static token
+2026-01-23 22:44:38,072 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 893fcde95f1816aa8820032948355c03).
+2026-01-23 22:44:40,155 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 22:44:40,999 - discord.client - ERROR - Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\realz\Documents\BLAZE-BOT\inferno-bot", line 2852, in on_ready
+    async with db.execute("SELECT guild_id, category_id, crew_info_channel_id, giveaway_donation_channel_id, crew_apply_log_channel_id FROM ticket_configs") as cursor:
+               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 183, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such column: crew_info_channel_id
+2026-01-23 22:46:03,783 - discord.client - INFO - logging in using static token
+2026-01-23 22:46:04,827 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f8bd718af53434f49dded13251e43a7e).
+2026-01-23 22:46:06,861 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 22:46:06,885 - discord.client - ERROR - Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\realz\Documents\BLAZE-BOT\inferno-bot", line 2852, in on_ready
+    async with db.execute("SELECT guild_id, category_id, crew_info_channel_id, giveaway_donation_channel_id, crew_apply_log_channel_id FROM ticket_configs") as cursor:
+               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 183, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such column: crew_info_channel_id
+2026-01-23 22:46:19,532 - discord.client - INFO - logging in using static token
+2026-01-23 22:46:20,845 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1cddf7d998c6f26ce1fd2eae8a383456).
+2026-01-23 22:46:22,869 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 22:46:22,880 - discord.client - ERROR - Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\realz\Documents\BLAZE-BOT\inferno-bot", line 2852, in on_ready
+    async with db.execute("SELECT guild_id, category_id, crew_info_channel_id, giveaway_donation_channel_id, crew_apply_log_channel_id FROM ticket_configs") as cursor:
+               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 183, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such column: crew_info_channel_id
+2026-01-23 22:47:37,278 - __main__ - INFO - ticket setup error - error: table ticket_configs has 6 columns but 5 values were supplied
+2026-01-23 22:49:03,381 - __main__ - INFO - ticket setup error - error: table ticket_configs has 6 columns but 5 values were supplied
+2026-01-23 23:08:47,345 - discord.client - INFO - logging in using static token
+2026-01-23 23:08:48,401 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: badf1ef4f47a4709633b343b91874d4b).
+2026-01-23 23:08:50,422 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-23 23:08:50,448 - discord.client - ERROR - Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\realz\Documents\BLAZE-BOT\inferno-bot", line 3094, in on_ready
+    async with db.execute("SELECT guild_id, channel_id, category_id, crew_apply_roles, crew_info_channel_id, crew_apply_log_channel_id FROM ticket_configs") as cursor:
+               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 183, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such column: channel_id
+2026-01-23 23:09:54,331 - discord.app_commands.tree - ERROR - Ignoring exception in command 'ticket_setup'
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 882, in _invoke_with_namespace
+    transformed_values = await self._transform_arguments(interaction, namespace)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\app_commands\commands.py", line 846, in _transform_arguments
+    raise CommandSignatureMismatch(self) from None
+discord.app_commands.errors.CommandSignatureMismatch: The signature for command 'ticket_setup' is different from the one provided by Discord. This can happen because either your code is out of date or you have not synced the commands with Discord, causing the mismatch in data. It is recommended to sync the command tree to fix this issue.
+2026-01-24 20:10:42,984 - discord.client - INFO - logging in using static token
+2026-01-24 20:14:43,467 - discord.client - INFO - logging in using static token
+2026-01-24 20:14:44,767 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 41955c1b2e86abdabff7b1345a469639).
+2026-01-24 20:14:46,780 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-24 20:14:47,037 - __main__ - INFO - invite caching error - failed to cache invites in ⌁ Inferno Community ⌁: 403 Forbidden (error code: 50013): Missing Permissions
+2026-01-24 20:14:47,360 - __main__ - INFO - Synced 17 global commands
+2026-01-24 20:14:47,361 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-24 20:15:28,903 - __main__ - INFO - ticket setup error - error: 403 Forbidden (error code: 50013): Missing Permissions
+2026-01-24 20:16:01,491 - __main__ - INFO - ticket system setup - Ticket system setup by zinx_blaze in ⌁ Inferno Community ⌁
+Category: ─────TICKET─────
+Channel: 💬┃ticket
+Title: Ticket
+2026-01-24 20:17:06,431 - discord.client - INFO - logging in using static token
+2026-01-24 20:17:07,697 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 19c3ba9f1899e2bd8942ea73f3f89df0).
+2026-01-24 20:17:09,710 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-24 20:17:10,088 - __main__ - INFO - Cached 2 invites for ⌁ Inferno Community ⌁
+2026-01-24 20:17:10,405 - __main__ - INFO - Synced 17 global commands
+2026-01-24 20:17:10,405 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-24 20:17:32,757 - __main__ - INFO - ticket system setup - Ticket system setup by zinx_blaze in ⌁ Inferno Community ⌁
+Category: ─────TICKET─────
+Channel: 💬┃ticket
+Title: Ticket
+2026-01-24 20:19:11,159 - discord.client - INFO - logging in using static token
+2026-01-24 20:19:12,255 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8f019ac24db4b73c768bbf4b9aca15fa).
+2026-01-24 20:19:14,278 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-24 20:19:14,573 - __main__ - INFO - Cached 2 invites for ⌁ Inferno Community ⌁
+2026-01-24 20:19:14,912 - __main__ - INFO - Synced 17 global commands
+2026-01-24 20:19:14,913 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-24 21:09:34,645 - discord.client - INFO - logging in using static token
+2026-01-24 21:09:36,021 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 712a9742dfd6cb0d53f2d5d740032def).
+2026-01-24 21:09:38,034 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-24 21:09:38,287 - __main__ - INFO - Cached 2 invites for ⌁ Inferno Community ⌁
+2026-01-24 21:09:39,218 - __main__ - INFO - Synced 17 global commands
+2026-01-24 21:09:39,220 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-24 21:42:01,971 - __main__ - INFO - ticket system setup - Ticket system setup by zinx_blaze in ⌁ Inferno Community ⌁
+Category: ─────TICKET─────
+Channel: 💬┃ticket
+Title: Ticket
+2026-01-24 21:47:12,991 - __main__ - INFO - ticket closed - Ticket war-request-zinx_blaze closed by zinx_blaze in ⌁ Inferno Community ⌁
+2026-01-31 14:56:09,891 - discord.client - INFO - logging in using static token
+2026-01-31 14:59:11,167 - discord.client - INFO - logging in using static token
+2026-01-31 14:59:12,251 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 927984bb083d498fe84782a44c4d9549).
+2026-01-31 14:59:14,274 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-31 14:59:14,643 - __main__ - INFO - Cached 40 invites for ⌁ Inferno Community ⌁
+2026-01-31 14:59:14,919 - __main__ - INFO - Synced 17 global commands
+2026-01-31 14:59:14,920 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-31 15:04:11,933 - discord.gateway - WARNING - Can't keep up, shard ID None websocket is 11.1s behind.
+2026-01-31 15:10:13,120 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 927984bb083d498fe84782a44c4d9549.
+2026-01-31 15:14:46,454 - discord.client - ERROR - Attempting a reconnect in 1.89s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:14:48,613 - discord.client - ERROR - Attempting a reconnect in 2.47s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:14:51,106 - discord.client - ERROR - Attempting a reconnect in 0.05s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:14:51,180 - discord.client - ERROR - Attempting a reconnect in 15.80s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:15:07,014 - discord.client - ERROR - Attempting a reconnect in 25.01s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:15:32,044 - discord.client - ERROR - Attempting a reconnect in 61.99s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:16:45,251 - discord.client - ERROR - Attempting a reconnect in 39.60s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:17:24,871 - discord.client - ERROR - Attempting a reconnect in 180.92s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:20:25,810 - discord.client - ERROR - Attempting a reconnect in 317.63s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:25:54,663 - discord.client - ERROR - Attempting a reconnect in 207.43s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:29:33,306 - discord.client - ERROR - Attempting a reconnect in 346.96s
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1365, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 935, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\realz\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1371, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-31 15:41:27,838 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2026-01-31 15:41:33,493 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 18e637746b3baf7f17cac51f3e465e01).
+2026-01-31 15:41:35,615 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-31 15:41:36,196 - __main__ - INFO - Cached 40 invites for ⌁ Inferno Community ⌁
+2026-01-31 15:41:36,642 - __main__ - INFO - Synced 17 global commands
+2026-01-31 15:41:36,644 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-31 15:42:37,003 - discord.client - INFO - logging in using static token
+2026-01-31 15:42:38,077 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8c6713b1715e94783c7257415daa12e9).
+2026-01-31 15:42:40,101 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-31 15:42:40,426 - __main__ - INFO - Cached 40 invites for ⌁ Inferno Community ⌁
+2026-01-31 15:42:40,735 - __main__ - INFO - Synced 17 global commands
+2026-01-31 15:42:40,752 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-31 15:43:37,579 - __main__ - INFO - giveaway cancelled - Cancelled by zinx_blaze in ⌁ Inferno Community ⌁
+2026-01-31 15:45:44,524 - __main__ - INFO - giveaway cancelled - Cancelled by zinx_blaze in ⌁ Inferno Community ⌁
+2026-01-31 15:45:52,379 - __main__ - INFO - messages cleared - zinx_blaze cleared 4 messages
+2026-01-31 16:43:09,674 - discord.client - INFO - logging in using static token
+2026-01-31 16:43:10,851 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 40b89fb52d6756102821276b7290e022).
+2026-01-31 16:43:12,898 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-31 16:43:13,630 - __main__ - INFO - Cached 40 invites for ⌁ Inferno Community ⌁
+2026-01-31 16:43:13,664 - discord.client - ERROR - Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\realz\Documents\INFERNO-BOT\inferno-bot.py", line 2837, in on_ready
+    bot.add_view(TicketDropdownView())
+                 ^^^^^^^^^^^^^^^^^^
+NameError: name 'TicketDropdownView' is not defined. Did you mean: 'TicketDropdown'?
+2026-01-31 16:43:46,762 - discord.client - INFO - logging in using static token
+2026-01-31 16:43:47,919 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 25db2ca360cd07c45ed88011171f7539).
+2026-01-31 16:43:49,942 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-31 16:43:50,363 - __main__ - INFO - Cached 40 invites for ⌁ Inferno Community ⌁
+2026-01-31 16:43:50,667 - __main__ - INFO - Synced 17 global commands
+2026-01-31 16:43:50,667 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-31 17:09:26,767 - discord.client - INFO - logging in using static token
+2026-01-31 17:09:28,058 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 85242a0fd4cf860307345af9e7cb35fd).
+2026-01-31 17:09:30,083 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-31 17:09:30,673 - __main__ - INFO - Cached 41 invites for ⌁ Inferno Community ⌁
+2026-01-31 17:09:31,039 - __main__ - INFO - Synced 17 global commands
+2026-01-31 17:09:31,039 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-31 17:11:07,596 - __main__ - INFO - ticket system setup - Ticket system setup by zinx_blaze in ⌁ Inferno Community ⌁
+Category: ─────TICKET─────
+Channel: 💬┃ticket
+Title: Ticket
+2026-01-31 17:11:36,063 - __main__ - INFO - ticket closed - Ticket report-zinx_blaze closed by zinx_blaze in ⌁ Inferno Community ⌁
+2026-01-31 18:10:56,583 - discord.client - INFO - logging in using static token
+2026-01-31 18:10:57,501 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: dff2656fc9162a151c684bda44218c7a).
+2026-01-31 18:10:59,531 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-31 18:10:59,927 - __main__ - INFO - Cached 41 invites for ⌁ Inferno Community ⌁
+2026-01-31 18:11:00,265 - __main__ - INFO - Synced 17 global commands
+2026-01-31 18:11:00,265 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-31 18:12:02,141 - __main__ - INFO - ticket closed - Ticket try-out-iambestgamer_ closed by zinx_blaze in ⌁ Inferno Community ⌁
+2026-01-31 18:12:05,708 - __main__ - INFO - ticket closed - Ticket war-request-iambestgamer_ closed by zinx_blaze in ⌁ Inferno Community ⌁
+2026-01-31 18:15:33,609 - __main__ - INFO - ticket system setup - Ticket system setup by zinx_blaze in ⌁ Inferno Community ⌁
+Category: ─────TICKET─────
+Channel: 💬┃ticket
+Title: Ticket
+2026-01-31 18:15:40,506 - __main__ - INFO - Added role Try Out Tester (1463218617968627854) to ticket permissions
+2026-01-31 18:15:40,507 - __main__ - INFO - Added role Head Of Tryouts (1463218725103861762) to ticket permissions
+2026-01-31 18:15:40,507 - __main__ - INFO - Added role War⤬Manager Asia (1465969789305618647) to ticket permissions
+2026-01-31 18:15:40,507 - __main__ - INFO - Added role War~Manager Na (1465969640193921044) to ticket permissions
+2026-01-31 18:15:40,508 - __main__ - INFO - Added role War⌁Manager EU (1463187576667115531) to ticket permissions
+2026-01-31 18:15:40,508 - __main__ - INFO - Added role Staff (1463073755239682119) to ticket permissions
+2026-01-31 18:16:05,383 - __main__ - INFO - Added role Try Out Tester (1463218617968627854) to ticket permissions
+2026-01-31 18:16:05,385 - __main__ - INFO - Added role Head Of Tryouts (1463218725103861762) to ticket permissions
+2026-01-31 18:16:05,386 - __main__ - INFO - Added role War⤬Manager Asia (1465969789305618647) to ticket permissions
+2026-01-31 18:16:05,386 - __main__ - INFO - Added role War~Manager Na (1465969640193921044) to ticket permissions
+2026-01-31 18:16:05,387 - __main__ - INFO - Added role War⌁Manager EU (1463187576667115531) to ticket permissions
+2026-01-31 18:16:05,388 - __main__ - INFO - Added role Staff (1463073755239682119) to ticket permissions
+2026-01-31 18:16:08,769 - __main__ - ERROR - Error in war request: 404 Not Found (error code: 10062): Unknown interaction
+2026-01-31 18:16:08,925 - __main__ - ERROR - Error creating ticket: 404 Not Found (error code: 10062): Unknown interaction
+2026-01-31 18:16:09,067 - discord.ui.view - ERROR - Ignoring exception in view <TicketDropdownView timeout=None children=1> for item <TicketDropdown placeholder='Select a ticket type...' min_values=1 max_values=1 disabled=False>
+Traceback (most recent call last):
+  File "c:\Users\realz\Documents\INFERNO-BOT\inferno-bot.py", line 652, in handle_ticket_creation
+    await interaction.response.send_message(f"✅ Created {ticket_type} ticket: {channel.mention}", ephemeral=True)
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\interactions.py", line 1004, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\ui\view.py", line 435, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\realz\Documents\INFERNO-BOT\inferno-bot.py", line 506, in callback
+    await self.view.handle_ticket_creation(interaction, self.values[0])
+  File "c:\Users\realz\Documents\INFERNO-BOT\inferno-bot.py", line 657, in handle_ticket_creation
+    await interaction.response.send_message("❌ Failed to create ticket. Please try again.", ephemeral=True)
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\interactions.py", line 1004, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2026-01-31 18:16:13,514 - __main__ - INFO - Added role Try Out Tester (1463218617968627854) to ticket permissions
+2026-01-31 18:16:13,514 - __main__ - INFO - Added role Head Of Tryouts (1463218725103861762) to ticket permissions
+2026-01-31 18:16:13,515 - __main__ - INFO - Added role War⤬Manager Asia (1465969789305618647) to ticket permissions
+2026-01-31 18:16:13,515 - __main__ - INFO - Added role War~Manager Na (1465969640193921044) to ticket permissions
+2026-01-31 18:16:13,515 - __main__ - INFO - Added role War⌁Manager EU (1463187576667115531) to ticket permissions
+2026-01-31 18:16:13,516 - __main__ - INFO - Added role Staff (1463073755239682119) to ticket permissions
+2026-01-31 18:16:38,388 - __main__ - INFO - Added role Try Out Tester (1463218617968627854) to ticket permissions
+2026-01-31 18:16:38,390 - __main__ - INFO - Added role Head Of Tryouts (1463218725103861762) to ticket permissions
+2026-01-31 18:16:38,392 - __main__ - INFO - Added role War⤬Manager Asia (1465969789305618647) to ticket permissions
+2026-01-31 18:16:38,392 - __main__ - INFO - Added role War~Manager Na (1465969640193921044) to ticket permissions
+2026-01-31 18:16:38,393 - __main__ - INFO - Added role War⌁Manager EU (1463187576667115531) to ticket permissions
+2026-01-31 18:16:38,393 - __main__ - INFO - Added role Staff (1463073755239682119) to ticket permissions
+2026-01-31 18:26:23,970 - discord.client - INFO - logging in using static token
+2026-01-31 18:26:24,977 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 548f1e9869eb8e0dc2a31aabf77e7606).
+2026-01-31 18:26:27,011 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-31 18:26:27,341 - __main__ - INFO - Cached 41 invites for ⌁ Inferno Community ⌁
+2026-01-31 18:26:27,652 - __main__ - INFO - Synced 17 global commands
+2026-01-31 18:26:27,653 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-01-31 18:26:34,011 - __main__ - INFO - Added role Try Out Tester (1463218617968627854) to ticket permissions
+2026-01-31 18:26:34,012 - __main__ - INFO - Added role Head Of Tryouts (1463218725103861762) to ticket permissions
+2026-01-31 18:26:34,012 - __main__ - INFO - Added role War⤬Manager Asia (1465969789305618647) to ticket permissions
+2026-01-31 18:26:34,012 - __main__ - INFO - Added role War~Manager Na (1465969640193921044) to ticket permissions
+2026-01-31 18:26:34,012 - __main__ - INFO - Added role War⌁Manager EU (1463187576667115531) to ticket permissions
+2026-01-31 18:26:34,012 - __main__ - INFO - Added role Staff (1463073755239682119) to ticket permissions
+2026-01-31 18:40:36,108 - discord.client - INFO - logging in using static token
+2026-01-31 18:40:37,304 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 38b7efe18b9c92775d3ad29d86bc9db6).
+2026-01-31 18:40:39,334 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-01-31 18:40:39,770 - __main__ - INFO - Cached 41 invites for ⌁ Inferno Community ⌁
+2026-01-31 18:40:48,783 - __main__ - INFO - Added role Try Out Tester (1463218617968627854) to ticket permissions
+2026-01-31 18:40:48,783 - __main__ - INFO - Added role Head Of Tryouts (1463218725103861762) to ticket permissions
+2026-01-31 18:40:48,784 - __main__ - INFO - Added role War⤬Manager Asia (1465969789305618647) to ticket permissions
+2026-01-31 18:40:48,785 - __main__ - INFO - Added role War~Manager Na (1465969640193921044) to ticket permissions
+2026-01-31 18:40:48,785 - __main__ - INFO - Added role War⌁Manager EU (1463187576667115531) to ticket permissions
+2026-01-31 18:40:48,785 - __main__ - INFO - Added role Staff (1463073755239682119) to ticket permissions
+2026-01-31 18:40:53,283 - __main__ - ERROR - Error creating ticket: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2026-01-31 18:40:53,453 - discord.ui.view - ERROR - Ignoring exception in view <TicketDropdownView timeout=None children=1> for item <TicketDropdown placeholder='Select a ticket type...' min_values=1 max_values=1 disabled=False>
+Traceback (most recent call last):
+  File "c:\Users\realz\Documents\INFERNO-BOT\inferno-bot.py", line 652, in handle_ticket_creation
+    await interaction.response.send_message(f"✅ Created {ticket_type} ticket: {channel.mention}", ephemeral=True)
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\interactions.py", line 1004, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\webhook\async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\ui\view.py", line 435, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\realz\Documents\INFERNO-BOT\inferno-bot.py", line 506, in callback
+    await self.view.handle_ticket_creation(interaction, self.values[0])
+  File "c:\Users\realz\Documents\INFERNO-BOT\inferno-bot.py", line 657, in handle_ticket_creation
+    await interaction.response.send_message("❌ Failed to create ticket. Please try again.", ephemeral=True)
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\interactions.py", line 1004, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\realz\AppData\Roaming\Python\Python313\site-packages\discord\webhook\async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2026-01-31 18:41:29,669 - __main__ - INFO - Synced 17 global commands
+2026-01-31 18:41:29,671 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-02-06 19:55:52,751 - discord.client - INFO - logging in using static token
+2026-02-06 19:55:54,392 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ed0989010103fa1b6914536054289a18).
+2026-02-06 19:55:56,547 - __main__ - INFO - Logged in as INFERNO-BOT#9461 (id: 1343864935930658876)
+2026-02-06 19:55:56,941 - __main__ - INFO - Cached 33 invites for ⌁ Inferno Community ⌁
+2026-02-06 19:55:57,229 - __main__ - INFO - Synced 17 global commands
+2026-02-06 19:55:57,243 - __main__ - INFO - bot started - Logged in as INFERNO-BOT#9461 in 1 guilds
+2026-02-06 19:56:24,210 - __main__ - INFO - ticket system setup - Ticket system setup by zinx_blaze in ⌁ Inferno Community ⌁
+Category: 🎫 Tickets
+Channel: 💬┃ticket
+Title: Ticket
+2026-02-06 19:56:30,011 - __main__ - INFO - Added role Try Out Tester (1463218617968627854) to ticket permissions
+2026-02-06 19:56:30,013 - __main__ - INFO - Added role Head Of Tryouts (1463218725103861762) to ticket permissions
+2026-02-06 19:56:30,014 - __main__ - INFO - Added role War⤬Manager Asia (1465969789305618647) to ticket permissions
+2026-02-06 19:56:30,015 - __main__ - INFO - Added role War~Manager Na (1465969640193921044) to ticket permissions
+2026-02-06 19:56:30,016 - __main__ - INFO - Added role War⌁Manager EU (1463187576667115531) to ticket permissions
+2026-02-06 19:56:30,016 - __main__ - INFO - Added role Staff (1463073755239682119) to ticket permissions
+2026-02-06 19:56:31,348 - __main__ - ERROR - Error in war request: TextInput.__init__() missing 1 required keyword-only argument: 'label'
+2026-02-06 19:56:52,400 - __main__ - INFO - Added role Try Out Tester (1463218617968627854) to ticket permissions
+2026-02-06 19:56:52,400 - __main__ - INFO - Added role Head Of Tryouts (1463218725103861762) to ticket permissions
+2026-02-06 19:56:52,401 - __main__ - INFO - Added role War⤬Manager Asia (1465969789305618647) to ticket permissions
+2026-02-06 19:56:52,401 - __main__ - INFO - Added role War~Manager Na (1465969640193921044) to ticket permissions
+2026-02-06 19:56:52,402 - __main__ - INFO - Added role War⌁Manager EU (1463187576667115531) to ticket permissions
+2026-02-06 19:56:52,403 - __main__ - INFO - Added role Staff (1463073755239682119) to ticket permissions
+2026-02-06 19:57:12,836 - __main__ - INFO - Added role Try Out Tester (1463218617968627854) to ticket permissions
+2026-02-06 19:57:12,843 - __main__ - INFO - Added role Head Of Tryouts (1463218725103861762) to ticket permissions
+2026-02-06 19:57:12,843 - __main__ - INFO - Added role War⤬Manager Asia (1465969789305618647) to ticket permissions
+2026-02-06 19:57:12,849 - __main__ - INFO - Added role War~Manager Na (1465969640193921044) to ticket permissions
+2026-02-06 19:57:12,850 - __main__ - INFO - Added role War⌁Manager EU (1463187576667115531) to ticket permissions
+2026-02-06 19:57:12,851 - __main__ - INFO - Added role Staff (1463073755239682119) to ticket permissions
+2026-02-06 19:57:25,945 - __main__ - INFO - Added role Try Out Tester (1463218617968627854) to ticket permissions
+2026-02-06 19:57:25,954 - __main__ - INFO - Added role Head Of Tryouts (1463218725103861762) to ticket permissions
+2026-02-06 19:57:25,954 - __main__ - INFO - Added role War⤬Manager Asia (1465969789305618647) to ticket permissions
+2026-02-06 19:57:25,954 - __main__ - INFO - Added role War~Manager Na (1465969640193921044) to ticket permissions
+2026-02-06 19:57:25,955 - __main__ - INFO - Added role War⌁Manager EU (1463187576667115531) to ticket permissions
+2026-02-06 19:57:25,955 - __main__ - INFO - Added role Staff (1463073755239682119) to ticket permissions
+2026-02-06 19:57:27,272 - __main__ - ERROR - Error in war request: TextInput.__init__() missing 1 required keyword-only argument: 'label'
+2026-02-17 22:09:05,982 - discord.client - INFO - logging in using static token
+2026-02-17 22:09:07,094 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 25e8e83edcf4447877213e7310d2bc26).
+2026-02-17 22:09:09,172 - __main__ - INFO - Logged in as zinx#9663 (id: 1473420162160922654)
+2026-02-17 22:09:10,288 - __main__ - INFO - Cached 0 invites for Inferno Test
+2026-02-17 22:09:10,872 - __main__ - INFO - Synced 17 global commands
+2026-02-17 22:09:10,916 - __main__ - INFO - bot started - Logged in as zinx#9663 in 1 guilds
+2026-02-17 22:12:17,873 - __main__ - INFO - greeting command used - zinx_blaze used the greeting command in Inferno Test (emoji: 👋)
+2026-02-17 22:17:07,251 - __main__ - INFO - messages cleared - zinx_blaze cleared 2 messages
+2026-02-17 22:17:10,426 - __main__ - INFO - bot left guild - Left Inferno Test (id: 1339379276767826053)

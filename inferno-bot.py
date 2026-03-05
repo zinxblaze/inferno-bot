@@ -3050,3 +3050,4 @@ async def monitor_slow_mode():
 # Start the bot
 if __name__ == "__main__":
     TOKEN = os.getenv('DISCORD_TOKEN')
+    bot.run(TOKEN)
